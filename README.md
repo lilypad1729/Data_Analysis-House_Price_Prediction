@@ -11,7 +11,9 @@ Sample pip install command:
 
 The code is written on Jupyter notebook, please make sure to install Jupyter Notebook.
 
-##Data Source
+## Data Source
 Housing price: https://fred.stlouisfed.org/release/tables?rid=462&eid=1131366#snid=1131432
+
 Economic features: https://fred.stlouisfed.org/release/tables?rid=116&eid=255386#snid=255417
+
 Covid related features: https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh
